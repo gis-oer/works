@@ -26,4 +26,4 @@
 
 ## 発表スライド
 
-- [「FOSS4Gを用いたGISオープン教材の開発とGitHubによる運用」山内啓之，小口 高，瀬戸寿一，早川裕弌 2017 FOSS4G KYOTO.KANSAI](./slides/2017_foss4g_kansai_gis-oer.pdf)
+- [「FOSS4Gを用いたGISオープン教材の開発とGitHubによる運用」](./slides/2017_foss4g_kansai_gis-oer.pdf)山内啓之，小口 高，瀬戸寿一，早川裕弌 2017 FOSS4G KYOTO.KANSAI
