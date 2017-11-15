@@ -24,6 +24,8 @@
 
 - 「GitHubによるGISの実習用オープン教材の試験運用」山内啓之，小口 高，瀬戸寿一，早川裕弌 地理情報システム学会　第26回学術研究発表大会(2017)
 
+- DEVELOPING OPEN-ACCESS E-LEANING MATERIALS FOR GIS EDUCATION RELATED TO TERRAIN ANALYSIS. Hiroyuki Yamauchi, Yuichi S. Hayakawa, Takashi Oguchi 9th INTERNATIONAL CONFERENCE ON GEOMORPHOLOGY (9th ICG), THEME: S21 : APPLICATION OF REMOTE SENSING (RS) AND GEOGRAPHICAL INFORMATION SYSTEM (GIS) IN GEOMORPHOLOGY, ABSTRACT NUMBER: 727.
+
 ## 発表スライド
 
 - [「FOSS4Gを用いたGISオープン教材の開発とGitHubによる運用」](./slides/2017_foss4g_kansai_gis-oer.pdf)山内啓之，小口 高，瀬戸寿一，早川裕弌 2017 FOSS4G KYOTO.KANSAI
