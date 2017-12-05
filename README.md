@@ -26,6 +26,10 @@
 
 - DEVELOPING OPEN-ACCESS E-LEANING MATERIALS FOR GIS EDUCATION RELATED TO TERRAIN ANALYSIS. Hiroyuki Yamauchi, Yuichi S. Hayakawa, Takashi Oguchi 9th INTERNATIONAL CONFERENCE ON GEOMORPHOLOGY (9th ICG), THEME: S21 : APPLICATION OF REMOTE SENSING (RS) AND GEOGRAPHICAL INFORMATION SYSTEM (GIS) IN GEOMORPHOLOGY, ABSTRACT NUMBER: 727.
 
+- [「GISの実習用オープン教材の開発とGitHubによる運用」](http://www.csis.u-tokyo.ac.jp/csisdays2017/program.html)山内啓之，小口高 CSIS DAYS 2017
+
+- 「GISの実習用オープン教材における地形分野の教材の特徴」山内啓之, 早川裕弌, 小口　高 日本地形学連合 2017年秋季大会
+
 ## 発表スライド
 
-- [「FOSS4Gを用いたGISオープン教材の開発とGitHubによる運用」](./slides/2017_foss4g_kansai_gis-oer.pdf)山内啓之，小口 高，瀬戸寿一，早川裕弌 2017 FOSS4G KYOTO.KANSAI
+- [「FOSS4Gを用いたGISオープン教材の開発とGitHubによる運用」](./slides/2017_foss4g_kansai_gis-oer.pdf)山内啓之，小口 高，瀬戸寿一，早川裕弌 2017 FOSS4G KYOTO.KANSAI (資料の[Speaker Deck版](https://speakerdeck.com/yamauchi/foss4gwoyong-itagisopunjiao-cai-falsekai-fa-togithubniyoruyun-yong-2017-foss4g-kyoto-dot-kansai)）
