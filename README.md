@@ -1,5 +1,5 @@
 # works
-学会報告のアブストラクトのリンク集や発表スライドを公開しています。© GIS-OER WG CC BY-SA 4.0
+学会報告のアブストラクトのリンク集や発表スライド等を公開しています。© GIS-OER WG CC BY-SA 4.0
 
 ## 学会発表
 - [「GIS の標準コアカリキュラムと知識体系を踏まえた実習用オープン教材の開発」](https://www.jstage.jst.go.jp/article/ajg/2015a/0/2015a_100168/_article/-char/ja/) 小口　高，村山祐司，久保田光一，貞広幸雄，奥貫圭一，山内啓之  日本地理学会2015年秋期学術大会
@@ -32,6 +32,12 @@
 
 - [Providing open-access online materials and hands-on sessions for GIS exercises.](https://agu.confex.com/agu/fm17/preliminaryview.cgi/Paper234373.html) Takashi Oguchi, Hiroyuki Yamauchi and Yuichi S. Hayakawa 2017 AGU Fall Meeting, Demonstrations, Hands-on Activities and Simple Measurements for Education.
 
-## 発表スライド
+### 発表スライド
 
 - [「FOSS4Gを用いたGISオープン教材の開発とGitHubによる運用」](./slides/2017_foss4g_kansai_gis-oer.pdf)山内啓之，小口 高，瀬戸寿一，早川裕弌 2017 FOSS4G KYOTO.KANSAI (資料の[Speaker Deck版](https://speakerdeck.com/yamauchi/foss4gwoyong-itagisopunjiao-cai-falsekai-fa-togithubniyoruyun-yong-2017-foss4g-kyoto-dot-kansai)）
+
+## 講習会・ショートセミナー
+
+- 「地球惑星科学に使えるQGISのオープン教材」 2017/5/20　JpGU2017 出展者ショートセミナー
+
+- [「QGIS入門講習会 第1回 地形環境の分析に使えるQGIS入門」](https://github.com/gis-oer/seminar/tree/master/2017_07_csis) 2017/7/28 東京大学空間情報科学研究センター
