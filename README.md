@@ -1,7 +1,7 @@
 # works
-学会報告のアブストラクトのリンク集や発表スライド等を公開しています。© GIS-OER WG CC BY-SA 4.0
+研究報告のアブストラクトのリンク集や発表スライド等を公開しています。© GIS-OER WG CC BY-SA 4.0
 
-## 学会発表
+## 学会・シンポジウム
 - [「GIS の標準コアカリキュラムと知識体系を踏まえた実習用オープン教材の開発」](https://www.jstage.jst.go.jp/article/ajg/2015a/0/2015a_100168/_article/-char/ja/) 小口　高，村山祐司，久保田光一，貞広幸雄，奥貫圭一，山内啓之  日本地理学会2015年秋期学術大会
 
 - [「GIS の実習用オープン教材の開発－基本事項に関する教材の試作」](https://www.jstage.jst.go.jp/article/ajg/2016s/0/2016s_100299/_article/-char/ja/)山内啓之，小口　高，村山祐司，久保田光一，貞広幸雄，奥貫圭一 日本地理学会2016年春期学術大会
@@ -31,6 +31,9 @@
 - 「GISの実習用オープン教材における地形分野の教材の特徴」山内啓之，早川裕弌，小口　高　日本地形学連合 2017年秋季大会
 
 - [Providing open-access online materials and hands-on sessions for GIS exercises.](https://agu.confex.com/agu/fm17/preliminaryview.cgi/Paper234373.html) Takashi Oguchi, Hiroyuki Yamauchi and Yuichi S. Hayakawa 2017 AGU Fall Meeting, Demonstrations, Hands-on Activities and Simple Measurements for Education.
+
+- [「高精細地形情報とGISを用いた地形模型の製作とオープン教材の開発」]山内啓之,早川裕弌,小口 高 第9回GIS-Landslide研究集会および第5回高解像度地形情報シンポジウム E4
+
 
 ### 発表スライド
 
