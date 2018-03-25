@@ -32,7 +32,9 @@
 
 - [Providing open-access online materials and hands-on sessions for GIS exercises.](https://agu.confex.com/agu/fm17/preliminaryview.cgi/Paper234373.html) Takashi Oguchi, Hiroyuki Yamauchi and Yuichi S. Hayakawa 2017 AGU Fall Meeting, Demonstrations, Hands-on Activities and Simple Measurements for Education.
 
-- 「高精細地形情報とGISを用いた地形模型の製作とオープン教材の開発」　山内啓之,早川裕弌,小口 高 第9回GIS-Landslide研究集会および第5回高解像度地形情報シンポジウム E4
+- 「高精細地形情報とGISを用いた地形模型の製作とオープン教材の開発」山内啓之， 早川裕弌， 小口　高 第9回GIS-Landslide研究集会および第5回高解像度地形情報シンポジウム E4
+
+- 「GIS初学者のためのWebGISの実習用教材の開発」山内啓之， 小口　高，瀬戸寿一，早川裕弌　日本地理学会2018年春期学術大会
 
 
 ### 発表スライド
