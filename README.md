@@ -6,7 +6,7 @@
 
 - [「GIS の実習用オープン教材の開発－基本事項に関する教材の試作」](https://www.jstage.jst.go.jp/article/ajg/2016s/0/2016s_100299/_article/-char/ja/)山内啓之，小口　高，村山祐司，久保田光一，貞広幸雄，奥貫圭一 日本地理学会2016年春期学術大会
 
-- Providing open-access online materials for GIS exercises. Takashi Oguchi, Hiroyuki Yamauchi, Yuji Murayama, Koichi Kubota, Yukio Sadahiro, Keiichi Okunuki Japan Geoscience Union Meeting 2016.
+- [Providing open-access online materials for GIS exercises.](https://confit.atlas.jp/guide/event/jpgu2016/subject/HTT09-P12/advanced) Takashi Oguchi, Hiroyuki Yamauchi, Yuji Murayama, Koichi Kubota, Yukio Sadahiro, Keiichi Okunuki Japan Geoscience Union Meeting 2016.
 
 - Development of open-access e-learning material for GIS education. Hiroyuki Yamauchi, Takashi Oguchi The 33rd International Geographical Congress(2016)　
 
