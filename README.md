@@ -1,5 +1,5 @@
 # works
-研究報告のアブストラクトのリンク集や発表スライド等を公開しています。© GIS-OER WG CC BY-SA 4.0
+本プロジェクトの主要な業績や発表スライド等を公開しています。© GIS Open Educational Resources WG, CC BY-SA 4.0
 
 ## 学会・シンポジウム
 - [「GIS の標準コアカリキュラムと知識体系を踏まえた実習用オープン教材の開発」](https://www.jstage.jst.go.jp/article/ajg/2015a/0/2015a_100168/_article/-char/ja/) 小口　高，村山祐司，久保田光一，貞広幸雄，奥貫圭一，山内啓之  日本地理学会2015年秋期学術大会
