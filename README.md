@@ -37,9 +37,14 @@
 - 「GIS初学者のためのWebGISの実習用教材の開発」山内啓之， 小口　高，瀬戸寿一，早川裕弌　日本地理学会2018年春期学術大会
 
 
-### 発表スライド
+### 発表スライド・ポスター
 
 - [「FOSS4Gを用いたGISオープン教材の開発とGitHubによる運用」](./slides/2017_foss4g_kansai_gis-oer.pdf)山内啓之，小口 高，瀬戸寿一，早川裕弌 2017 FOSS4G KYOTO.KANSAI (資料の[Speaker Deck版](https://speakerdeck.com/yamauchi/foss4gwoyong-itagisopunjiao-cai-falsekai-fa-togithubniyoruyun-yong-2017-foss4g-kyoto-dot-kansai)）
+
+- Development of open-access e-learning material for GIS education. Hiroyuki Yamauchi, Takashi Oguchi The 33rd International Geographical Congress(2016)　[Poster](https://github.com/gis-oer/works/blob/master/poster_en/Development%20of%20open-access%20e-learning%20material%20for%20GIS%20education.pdf)
+
+- DEVELOPING OPEN-ACCESS E-LEANING MATERIALS FOR GIS EDUCATION RELATED TO TERRAIN ANALYSIS. Hiroyuki Yamauchi, Yuichi S. Hayakawa, Takashi Oguchi 9th INTERNATIONAL CONFERENCE ON GEOMORPHOLOGY [Poster](https://github.com/gis-oer/works/blob/master/poster_en/Developing%20Open-access%20E-learning%20Materials%20for%20GIS%20Education%20Related%20to%20Terrain%20Analysis.pdf)
+
 
 ## 講習会・ショートセミナー
 
