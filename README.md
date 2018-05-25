@@ -36,6 +36,10 @@
 
 - 「GIS初学者のためのWebGISの実習用教材の開発」山内啓之， 小口　高，瀬戸寿一，早川裕弌　日本地理学会2018年春期学術大会
 
+- [Developing materials for GIS practice in higher education and their application in a class of GIS exercises](https://confit.atlas.jp/guide/event/jpgu2018/subject/HTT15-06/advanced) Hiroyuki Yamauchi, Takashi Oguchi, Yuichi S. Hayakawa, Yasutaka Haneda Japan Geoscience Union Meeting 2018.
+
+- [里山景観に関する地理的想像の促進：高精細地表情報と3D地形模型を用いた試み](https://confit.atlas.jp/guide/event/jpgu2018/subject/G04-P02/advanced) 小倉拓郎，早川裕弌，中田康隆，田村裕彦，小口千明，清水きさら，山内啓之，小口　高　日本地球惑星科学連合2018年大会
+
 
 ### 発表スライド・ポスター
 
