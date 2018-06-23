@@ -40,6 +40,7 @@
 
 - [里山景観に関する地理的想像の促進：高精細地表情報と3D地形模型を用いた試み](https://confit.atlas.jp/guide/event/jpgu2018/subject/G04-P02/advanced) 小倉拓郎，早川裕弌，中田康隆，田村裕彦，小口千明，清水きさら，山内啓之，小口　高　日本地球惑星科学連合2018年大会
 
+- [「GIS実習オープン教材の開発と運用状況」　](https://foss4g.hokkaido.jp/) 山内 啓之, 小口 高, 　早川 裕弌, 瀬戸 寿一　 2018 FOSS4G Hokkaido
 
 ### 発表スライド・ポスター
 
