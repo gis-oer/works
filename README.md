@@ -28,7 +28,7 @@
 
 - [「GISの実習用オープン教材の開発とGitHubによる運用」](http://www.csis.u-tokyo.ac.jp/csisdays2017/program.html)山内啓之，小口　高 CSIS DAYS 2017
 
-- 「GISの実習用オープン教材における地形分野の教材の特徴」山内啓之，早川裕弌，小口　高　日本地形学連合 2017年秋季大会
+- 「GISの実習用オープン教材における地形分野の教材の特徴」 山内啓之，早川裕弌，小口　高　日本地形学連合 2017年秋季大会
 
 - [Providing open-access online materials and hands-on sessions for GIS exercises.](https://agu.confex.com/agu/fm17/preliminaryview.cgi/Paper234373.html) Takashi Oguchi, Hiroyuki Yamauchi and Yuichi S. Hayakawa 2017 AGU Fall Meeting, Demonstrations, Hands-on Activities and Simple Measurements for Education.
 
@@ -50,6 +50,7 @@
 
 - DEVELOPING OPEN-ACCESS E-LEANING MATERIALS FOR GIS EDUCATION RELATED TO TERRAIN ANALYSIS. Hiroyuki Yamauchi, Yuichi S. Hayakawa, Takashi Oguchi 9th INTERNATIONAL CONFERENCE ON GEOMORPHOLOGY [Poster](https://github.com/gis-oer/works/blob/master/poster_en/Developing%20Open-access%20E-learning%20Materials%20for%20GIS%20Education%20Related%20to%20Terrain%20Analysis.pdf)
 
+- 「GIS実習オープン教材の開発と運用状況」  山内 啓之, 小口 高, 　早川 裕弌, 瀬戸 寿一　 2018 FOSS4G Hokkaido (資料の[Speaker Deck版](https://speakerdeck.com/yamauchi/20180623-gisshi-xi-opunjiao-cai-falsekai-fa-toyun-yong-zhuang-kuang))
 
 ## 講習会・ショートセミナー
 
