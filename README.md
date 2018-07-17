@@ -34,7 +34,7 @@
 
 - 「高精細地形情報とGISを用いた地形模型の製作とオープン教材の開発」山内啓之， 早川裕弌， 小口　高 第9回GIS-Landslide研究集会および第5回高解像度地形情報シンポジウム E4
 
-- 「GIS初学者のためのWebGISの実習用教材の開発」山内啓之， 小口　高，瀬戸寿一，早川裕弌　日本地理学会2018年春期学術大会
+- [「GIS初学者のためのWebGISの実習用教材の開発」](https://www.jstage.jst.go.jp/article/ajg/2018s/0/2018s_000197/_pdf/-char/ja)山内啓之， 小口　高，瀬戸寿一，早川裕弌　日本地理学会2018年春期学術大会
 
 - [Developing materials for GIS practice in higher education and their application in a class of GIS exercises](https://confit.atlas.jp/guide/event/jpgu2018/subject/HTT15-06/advanced) Hiroyuki Yamauchi, Takashi Oguchi, Yuichi S. Hayakawa, Yasutaka Haneda Japan Geoscience Union Meeting 2018.
 
