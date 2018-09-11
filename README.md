@@ -44,6 +44,8 @@
 
 - 「GIS教育のためのオープン教材と実習用データの利活用」山内 啓之, 小口 高, 早川 裕弌　第1回データ利活用研究コミュニティワークショップ
 
+- [Development and Operation of Open Educational Resources for GIS Exercises in Undergraduate Courses](http://sam2018.wixsite.com/home) Hiroyuki Yamauchi, Takashi Oguchi, Yuichi S. Hayakawa, Toshikazu Seto International Conference on Spatial Analysis and Modeling 2018.
+
 ### 発表スライド・ポスター
 
 - [「FOSS4Gを用いたGISオープン教材の開発とGitHubによる運用」](./slides/2017_foss4g_kansai_gis-oer.pdf)山内啓之，小口 高，瀬戸寿一，早川裕弌 2017 FOSS4G KYOTO.KANSAI (資料の[Speaker Deck版](https://speakerdeck.com/yamauchi/foss4gwoyong-itagisopunjiao-cai-falsekai-fa-togithubniyoruyun-yong-2017-foss4g-kyoto-dot-kansai)）
