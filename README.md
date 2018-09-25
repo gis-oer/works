@@ -46,6 +46,8 @@
 
 - [Development and Operation of Open Educational Resources for GIS Exercises in Undergraduate Courses](http://sam2018.wixsite.com/home) Hiroyuki Yamauchi, Takashi Oguchi, Yuichi S. Hayakawa, Toshikazu Seto International Conference on Spatial Analysis and Modeling 2018.
 
+- 「地理歴史科教員や教員養成課程の学生のためのGIS実習用教材の開発」山内啓之， 小口　高，早川裕弌，小倉拓郎，羽田康孝，宋　佳麗　日本地理学会2018年秋期学術大会
+
 ### 発表スライド・ポスター
 
 - [「FOSS4Gを用いたGISオープン教材の開発とGitHubによる運用」](./slides/2017_foss4g_kansai_gis-oer.pdf)山内啓之，小口 高，瀬戸寿一，早川裕弌 2017 FOSS4G KYOTO.KANSAI (資料の[Speaker Deck版](https://speakerdeck.com/yamauchi/foss4gwoyong-itagisopunjiao-cai-falsekai-fa-togithubniyoruyun-yong-2017-foss4g-kyoto-dot-kansai)）
