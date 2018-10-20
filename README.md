@@ -46,7 +46,11 @@
 
 - [Development and Operation of Open Educational Resources for GIS Exercises in Undergraduate Courses](http://sam2018.wixsite.com/home) Hiroyuki Yamauchi, Takashi Oguchi, Yuichi S. Hayakawa, Toshikazu Seto International Conference on Spatial Analysis and Modeling 2018.
 
-- 「地理歴史科教員や教員養成課程の学生のためのGIS実習用教材の開発」山内啓之， 小口　高，早川裕弌，小倉拓郎，羽田康孝，宋　佳麗　日本地理学会2018年秋期学術大会
+- 「地理歴史科教員や教員養成課程の学生のためのGIS実習用教材の開発」山内啓之，小口　高，早川裕弌，小倉拓郎，羽田康孝，宋　佳麗　日本地理学会2018年秋期学術大会
+
+- Development and operation of GIS exercise materials for undergraduate students Hiroyuki Yamauchi, Takashi Oguchi, Yuichi S. Hayakawa, Toshikazu Seto 5TH OPEN SOURCE GEOSPATIAL RESEARCH AND EDUCATION SYMPOSIUM 2018.
+
+- 「地理総合を想定した教員向けのGIS実習用教材と授業モデルの開発」山内啓之，小口　高，早川裕弌，小倉拓郎，羽田康孝，宋　佳麗　地理情報システム学会　第27回学術研究発表大会(2018)
 
 ### 発表スライド・ポスター
 
