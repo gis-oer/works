@@ -40,7 +40,7 @@
 
 - [里山景観に関する地理的想像の促進：高精細地表情報と3D地形模型を用いた試み](https://confit.atlas.jp/guide/event/jpgu2018/subject/G04-P02/advanced) 小倉拓郎，早川裕弌，中田康隆，田村裕彦，小口千明，清水きさら，山内啓之，小口　高　日本地球惑星科学連合2018年大会
 
-- [「GIS実習オープン教材の開発と運用状況」](https://foss4g.hokkaido.jp/) 山内 啓之, 小口 高, 早川 裕弌, 瀬戸 寿一　 2018 FOSS4G Hokkaido
+- [「GIS実習オープン教材の開発と運用状況」](https://foss4g.hokkaido.jp/) 山内啓之, 小口 高, 早川裕弌, 瀬戸寿一　 2018 FOSS4G Hokkaido
 
 - 「GIS教育のためのオープン教材と実習用データの利活用」山内 啓之, 小口 高, 早川 裕弌　第1回データ利活用研究コミュニティワークショップ
 
@@ -52,6 +52,8 @@
 
 - 「地理総合を想定した教員向けのGIS実習用教材と授業モデルの開発」山内啓之，小口　高，早川裕弌，小倉拓郎，羽田康孝，宋　佳麗　地理情報システム学会　第27回学術研究発表大会(2018)
 
+- 「QGISを用いた中高生向けGIS教育の実践とその課題」山内啓之，小口　高，羽田康孝　2018 FOSS4G Tokyo 
+
 ### 発表スライド・ポスター
 
 - [「FOSS4Gを用いたGISオープン教材の開発とGitHubによる運用」](./slides/2017_foss4g_kansai_gis-oer.pdf)山内啓之，小口 高，瀬戸寿一，早川裕弌 2017 FOSS4G KYOTO.KANSAI (資料の[Speaker Deck版](https://speakerdeck.com/yamauchi/foss4gwoyong-itagisopunjiao-cai-falsekai-fa-togithubniyoruyun-yong-2017-foss4g-kyoto-dot-kansai)）
@@ -61,6 +63,8 @@
 - DEVELOPING OPEN-ACCESS E-LEANING MATERIALS FOR GIS EDUCATION RELATED TO TERRAIN ANALYSIS. Hiroyuki Yamauchi, Yuichi S. Hayakawa, Takashi Oguchi 9th INTERNATIONAL CONFERENCE ON GEOMORPHOLOGY [Poster](https://github.com/gis-oer/works/blob/master/poster_en/Developing%20Open-access%20E-learning%20Materials%20for%20GIS%20Education%20Related%20to%20Terrain%20Analysis.pdf)
 
 - 「GIS実習オープン教材の開発と運用状況」  山内 啓之, 小口 高, 　早川 裕弌, 瀬戸 寿一　 2018 FOSS4G Hokkaido (資料の[Speaker Deck版](https://speakerdeck.com/yamauchi/20180623-gisshi-xi-opunjiao-cai-falsekai-fa-toyun-yong-zhuang-kuang))
+
+- 「QGISを用いた中高生向けGIS教育の実践とその課題」山内啓之，小口　高，羽田康孝　2018 FOSS4G Tokyo (資料の[Speaker Deck版](https://speakerdeck.com/yamauchi/20181110-qgiswoyong-itazhong-gao-sheng-xiang-kegisjiao-yu-falseshi-jian-tosofalseke-ti))
 
 ## 講習会・ショートセミナー
 
