@@ -64,7 +64,7 @@
 
 - 「GIS実習オープン教材の開発と運用状況」  山内 啓之, 小口 高, 　早川 裕弌, 瀬戸 寿一　 2018 FOSS4G Hokkaido (資料の[Speaker Deck版](https://speakerdeck.com/yamauchi/20180623-gisshi-xi-opunjiao-cai-falsekai-fa-toyun-yong-zhuang-kuang))
 
-- 「QGISを用いた中高生向けGIS教育の実践とその課題」山内啓之，小口　高，羽田康孝　2018 FOSS4G Tokyo (資料の[Speaker Deck版](https://speakerdeck.com/yamauchi/20181110-qgiswoyong-itazhong-gao-sheng-xiang-kegisjiao-yu-falseshi-jian-tosofalseke-ti))
+- [「QGISを用いた中高生向けGIS教育の実践とその課題」](https://www.osgeo.jp/events/foss4g-2018/foss4g-2018-tokyo/foss4g-2018-tokyo-coreday#jirei1-2)山内啓之，小口　高，羽田康孝　2018 FOSS4G Tokyo (資料の[Speaker Deck版](https://speakerdeck.com/yamauchi/20181110-qgiswoyong-itazhong-gao-sheng-xiang-kegisjiao-yu-falseshi-jian-tosofalseke-ti))
 
 ## 講習会・ショートセミナー
 
