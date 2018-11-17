@@ -2,7 +2,12 @@
 本プロジェクトの主要な業績や発表スライド等を公開しています。© GIS Open Educational Resources WG, CC BY-SA 4.0
 
 ## 学会・シンポジウム
+
+### 2015
+
 - [「GIS の標準コアカリキュラムと知識体系を踏まえた実習用オープン教材の開発」](https://www.jstage.jst.go.jp/article/ajg/2015a/0/2015a_100168/_article/-char/ja/) 小口　高，村山祐司，久保田光一，貞広幸雄，奥貫圭一，山内啓之  日本地理学会2015年秋期学術大会
+
+### 2016
 
 - [「GIS の実習用オープン教材の開発－基本事項に関する教材の試作」](https://www.jstage.jst.go.jp/article/ajg/2016s/0/2016s_100299/_article/-char/ja/)山内啓之，小口　高，村山祐司，久保田光一，貞広幸雄，奥貫圭一 日本地理学会2016年春期学術大会
 
@@ -13,6 +18,8 @@
 - [「GISの実習用オープン教材の開発と公開」](https://www.jstage.jst.go.jp/article/ajg/2016a/0/2016a_100108/_article/-char/ja/)山内啓之，小口　高，村山祐司，久保田光一，貞広幸雄，奥貫圭一 日本地理学会2016年秋期学術大会
 
 - 「GISオープン教材の開発とGitHubを用いた公開」山内啓之，瀬戸寿一，小口　高 地理情報システム学会　第25回学術研究発表大会(2016)
+
+### 2017
 
 - [「GISの実習用オープン教材の試験運用と改良」](https://www.jstage.jst.go.jp/article/ajg/2017s/0/2017s_100154/_article/-char/ja/)山内啓之，小口　高，早川裕弌，川又麻央　日本地理学会2017年春期学術大会
 
@@ -31,6 +38,8 @@
 - 「GISの実習用オープン教材における地形分野の教材の特徴」 山内啓之，早川裕弌，小口　高　日本地形学連合 2017年秋季大会
 
 - [Providing open-access online materials and hands-on sessions for GIS exercises.](https://agu.confex.com/agu/fm17/preliminaryview.cgi/Paper234373.html) Takashi Oguchi, Hiroyuki Yamauchi and Yuichi S. Hayakawa 2017 AGU Fall Meeting, Demonstrations, Hands-on Activities and Simple Measurements for Education.
+
+### 2018
 
 - 「高精細地形情報とGISを用いた地形模型の製作とオープン教材の開発」山内啓之， 早川裕弌， 小口　高 第9回GIS-Landslide研究集会および第5回高解像度地形情報シンポジウム E4
 
