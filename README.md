@@ -63,6 +63,8 @@
 
 - 「QGISを用いた中高生向けGIS教育の実践とその課題」山内啓之，小口　高，羽田康孝　2018 FOSS4G Tokyo 
 
+- 「GitHubを用いて管理する地理情報科学の実習用OERの開発」 山内 啓之, 小口 高, 瀬戸 寿一, 早川 裕弌 大学　ICT推進協議会 2018年度年次大会
+
 ### 発表スライド・ポスター
 
 - [「FOSS4Gを用いたGISオープン教材の開発とGitHubによる運用」](./slides/2017_foss4g_kansai_gis-oer.pdf)山内啓之，小口 高，瀬戸寿一，早川裕弌 2017 FOSS4G KYOTO.KANSAI (資料の[Speaker Deck版](https://speakerdeck.com/yamauchi/foss4gwoyong-itagisopunjiao-cai-falsekai-fa-togithubniyoruyun-yong-2017-foss4g-kyoto-dot-kansai)）
@@ -74,8 +76,6 @@
 - 「GIS実習オープン教材の開発と運用状況」  山内 啓之, 小口 高, 　早川 裕弌, 瀬戸 寿一　 2018 FOSS4G Hokkaido (資料の[Speaker Deck版](https://speakerdeck.com/yamauchi/20180623-gisshi-xi-opunjiao-cai-falsekai-fa-toyun-yong-zhuang-kuang))
 
 - [「QGISを用いた中高生向けGIS教育の実践とその課題」](https://www.osgeo.jp/events/foss4g-2018/foss4g-2018-tokyo/foss4g-2018-tokyo-coreday#jirei1-2)山内啓之，小口　高，羽田康孝　2018 FOSS4G Tokyo (資料の[Speaker Deck版](https://speakerdeck.com/yamauchi/20181110-qgiswoyong-itazhong-gao-sheng-xiang-kegisjiao-yu-falseshi-jian-tosofalseke-ti))
-
-- 「GitHubを用いて管理する地理情報科学の実習用OERの開発」 山内 啓之, 小口 高, 瀬戸 寿一, 早川 裕弌 大学　ICT推進協議会 2018年度年次大会
 
 ## 講習会・ショートセミナー
 
