@@ -65,6 +65,8 @@
 
 - 「GitHubを用いて管理する地理情報科学の実習用OERの開発」 山内 啓之, 小口 高, 瀬戸 寿一, 早川 裕弌 大学　ICT推進協議会 2018年度年次大会
 
+- 「GIS実習用教材の改良のための利用状況調査」山内啓之・小口 高・早川裕弌・瀬戸寿一・荻田玲子　日本地理学会2019年春期学術大会
+
 ### 発表スライド・ポスター
 
 - [「FOSS4Gを用いたGISオープン教材の開発とGitHubによる運用」](./slides/2017_foss4g_kansai_gis-oer.pdf)山内啓之，小口 高，瀬戸寿一，早川裕弌 2017 FOSS4G KYOTO.KANSAI (資料の[Speaker Deck版](https://speakerdeck.com/yamauchi/foss4gwoyong-itagisopunjiao-cai-falsekai-fa-togithubniyoruyun-yong-2017-foss4g-kyoto-dot-kansai)）
@@ -77,7 +79,9 @@
 
 - [「QGISを用いた中高生向けGIS教育の実践とその課題」](https://www.osgeo.jp/events/foss4g-2018/foss4g-2018-tokyo/foss4g-2018-tokyo-coreday#jirei1-2)山内啓之，小口　高，羽田康孝　2018 FOSS4G Tokyo (資料の[Speaker Deck版](https://speakerdeck.com/yamauchi/20181110-qgiswoyong-itazhong-gao-sheng-xiang-kegisjiao-yu-falseshi-jian-tosofalseke-ti))
 
-## 講習会・ショートセミナー
+## 講習会・ワークショップ・展示等
+
+- [愛知川最新研究をさわってみよう！](https://e-omi-muse.com/tanken-n/news_detail.html?id=339)
 
 - 「地球惑星科学に使えるQGISのオープン教材」 2017/5/20　JpGU2017 出展者ショートセミナー
 
