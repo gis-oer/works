@@ -81,7 +81,9 @@
 
 ## 講習会・ワークショップ・展示等
 
-- [愛知川最新研究をさわってみよう！](https://e-omi-muse.com/tanken-n/news_detail.html?id=339)
+- [Workshop on Applications of Drones to Spatial Information Science](http://www.csis.u-tokyo.ac.jp/blog/research/workshop-20190327/): 2019/3/27, Hiroyuki Yamauchi (CSIS), Education and Outreach of Topographic Studies using UAVs 
+
+- [愛知川最新研究をさわってみよう！](https://e-omi-muse.com/tanken-n/news_detail.html?id=339) : 3Dプリントした地形模型展示
 
 - 「地球惑星科学に使えるQGISのオープン教材」 2017/5/20　JpGU2017 出展者ショートセミナー
 
