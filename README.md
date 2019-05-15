@@ -61,13 +61,29 @@
 
 - 「地理総合を想定した教員向けのGIS実習用教材と授業モデルの開発」山内啓之，小口　高，早川裕弌，小倉拓郎，羽田康孝，宋　佳麗　地理情報システム学会　第27回学術研究発表大会(2018)
 
+- Construction of a disaster prevention education system for high school students based on WebGIS. Jiali Song，Takashi Oguchi，Takuro Ogura，Hiroyuki Yamauchi CSIS DAYS 2018.
+
+- 「防災教育アプリケーションの開発における地形情報の利活用と課題-日本と中国の比較-」宋 佳麗，小口 高，小倉拓郎，山内啓之　日本地形学連合2018年秋季学術大会
+
 - 「QGISを用いた中高生向けGIS教育の実践とその課題」山内啓之，小口　高，羽田康孝　2018 FOSS4G Tokyo 
 
 - 「GitHubを用いて管理する地理情報科学の実習用OERの開発」 山内 啓之, 小口 高, 瀬戸 寿一, 早川 裕弌 大学　ICT推進協議会 2018年度年次大会
 
+- Use of high-frequency, high-definition topographic 3D data to develop geographic thinking of students. Takuro Ogura, Yuichi S. Hayakawa, Hiroyuki Yamauchi, Takashi Oguchi, Yasuhiko Tamura, Chiaki T Oguchi, Tatsuto Aoki, Kiyomi Hayashi AGU Fall Meeting 2018.
+
 ### 2019
 
-- 「GIS実習用教材の改良のための利用状況調査」山内啓之・小口 高・早川裕弌・瀬戸寿一・荻田玲子　日本地理学会2019年春期学術大会
+- 「GIS実習用教材の改良のための利用状況調査」山内啓之，小口 高，早川裕弌，瀬戸寿一，荻田玲子　日本地理学会2019年春期学術大会
+
+- 「高頻度・高精細地形情報を用いた地理的思考を促す地球科学教育の実践」小倉拓郎，早川裕弌，青木賢人，林 紀代美，山内啓之，小口 高，田村裕彦，小口千明　日本地理学会2019年春期学術大会
+
+- 「高精細地形情報によるダンボール立体モデルを用いた自然地理的現象の理解の促進」早川裕弌，小倉拓郎，山内啓之，小口 高，小花和宏之　日本地理学会2019年春期学術大会
+
+- Improvement of GIS exercise classes using the GIS open educational resources based on questionnaire surveys. Hiroyuki Yamauchi, Takashi Oguchi, Yuichi S. Hayakawa, Kotaro Iizuka Japan Geoscience Union Meeting 2019.
+
+- Applications of WebGIS to Educating Disaster Risk Reduction for Chinese and Japanese Students. Jiali SONG, Takashi Oguchi, Hiroyuki Yamauchi, Takuro Ogura Japan Geoscience Union Meeting 2019.
+
+- Practice of environmental study utilizing local high-definition topographic data. Takuro Ogura, Yuichi S. Hayakawa, Yasuhiko Tamura, Chiaki T. Oguchi, Masashi Morita, Kisara Shimizu, OGATA KEISUKE, Hiroyuki Yamauchi Japan Geoscience Union Meeting 2019.
 
 ### 発表スライド・ポスター
 
@@ -83,10 +99,6 @@
 
 ## 講習会・ワークショップ・展示等
 
-- [Workshop on Applications of Drones to Spatial Information Science](http://www.csis.u-tokyo.ac.jp/blog/research/workshop-20190327/): 2019/3/27, Hiroyuki Yamauchi (CSIS), Education and Outreach of Topographic Studies using UAVs 
-
-- [愛知川最新研究をさわってみよう！](https://e-omi-muse.com/tanken-n/news_detail.html?id=339) : 3Dプリントした地形模型展示
-
 - 「地球惑星科学に使えるQGISのオープン教材」 2017/5/20　JpGU2017 出展者ショートセミナー
 
 - [「QGIS入門講習会 第1回 地形環境の分析に使えるQGIS入門」](https://github.com/gis-oer/seminar/tree/master/2017_07_csis) 2017/7/28 東京大学空間情報科学研究センター
@@ -98,3 +110,7 @@
 
 - [ひらめき☆ときめきサイエンス デジタル地図とスマホ、ドローン、3Dプリンタで自然環境と人
 間生活を調べよう！](https://www.jsps.go.jp/hirameki/ht30000/ht30062.pdf) 2018/8/17 東京大学 柏キャンパス
+
+- [愛知川最新研究をさわってみよう！](https://e-omi-muse.com/tanken-n/news_detail.html?id=339) : 3Dプリントした地形模型の展示
+
+- [Workshop on Applications of Drones to Spatial Information Science](http://www.csis.u-tokyo.ac.jp/blog/research/workshop-20190327/): 2019/3/27, Hiroyuki Yamauchi (CSIS), Education and Outreach of Topographic Studies using UAVs 
