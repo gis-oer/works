@@ -1,7 +1,7 @@
 # works
-本プロジェクトの主要な業績や発表スライド等を公開しています。© GIS Open Educational Resources WG, CC BY-SA 4.0
+本プロジェクトの主要な業績を公開しています。© GIS Open Educational Resources WG, CC BY-SA 4.0
 
-## 学会・シンポジウム
+## 学会等での口頭、ポスター発表
 
 ### 2015
 
