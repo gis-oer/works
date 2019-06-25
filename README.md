@@ -79,11 +79,15 @@
 
 - 「高精細地形情報によるダンボール立体モデルを用いた自然地理的現象の理解の促進」早川裕弌，小倉拓郎，山内啓之，小口 高，小花和宏之　日本地理学会2019年春期学術大会
 
+- Education and Outreach of Topographic Studies using UAVs. Hiroyuki Yamauchi Workshop on Applications of Drones to Spatial Information Science
+
 - Improvement of GIS exercise classes using the GIS open educational resources based on questionnaire surveys. Hiroyuki Yamauchi, Takashi Oguchi, Yuichi S. Hayakawa, Kotaro Iizuka Japan Geoscience Union Meeting 2019.
 
 - Applications of WebGIS to Educating Disaster Risk Reduction for Chinese and Japanese Students. Jiali SONG, Takashi Oguchi, Hiroyuki Yamauchi, Takuro Ogura Japan Geoscience Union Meeting 2019.
 
 - Practice of environmental study utilizing local high-definition topographic data. Takuro Ogura, Yuichi S. Hayakawa, Yasuhiko Tamura, Chiaki T. Oguchi, Masashi Morita, Kisara Shimizu, OGATA KEISUKE, Hiroyuki Yamauchi Japan Geoscience Union Meeting 2019.
+
+- Applications of Hazard Maps in a Disaster Risk Reduction Education System Based on WebGIS. Jiali Song, Takuro Ogura, Takashi Oguchi, Hiroyuki Yamauchi  International Conference on Earth Observations and Societal Impacts.
 
 ### 発表スライド・ポスター
 
@@ -111,6 +115,13 @@
 - [ひらめき☆ときめきサイエンス デジタル地図とスマホ、ドローン、3Dプリンタで自然環境と人
 間生活を調べよう！](https://www.jsps.go.jp/hirameki/ht30000/ht30062.pdf) 2018/8/17 東京大学 柏キャンパス
 
-- [愛知川最新研究をさわってみよう！](https://e-omi-muse.com/tanken-n/news_detail.html?id=339) : 3Dプリントした地形模型の展示
+- [愛知川最新研究をさわってみよう！](https://e-omi-muse.com/tanken-n/news_detail.html?id=339) : 展示協力　2019/2/22～3/24
 
-- [Workshop on Applications of Drones to Spatial Information Science](http://www.csis.u-tokyo.ac.jp/blog/research/workshop-20190327/): 2019/3/27, Hiroyuki Yamauchi (CSIS), Education and Outreach of Topographic Studies using UAVs 
+- [Workshop on Applications of Drones to Spatial Information Science](http://www.csis.u-tokyo.ac.jp/blog/research/workshop-20190327/): 2019/3/27, Hiroyuki Yamauchi (CSIS), Education and Outreach of Topographic Studies using UAVs 2019/3/27
+
+- 「オープンソース”QGIS”のデモンストレーション」 2019/5/30　JpGU2019 出展者ショートセミナー
+
+- [好きを仕事に～小さいことの積み重ね～](https://e-omi-muse.com/tanken-n/news_detail.html?id=354) : 展示協力　2019/06/26～9/1
+
+- [ひらめき☆ときめきサイエンス デジタル地図とスマホ、ドローン、3Dプリンタで自然環境と人
+間生活を調べよう！](https://www.jsps.go.jp/hirameki/ht30000/ht30062.pdf) 2019/8/17 東京大学 柏キャンパス
