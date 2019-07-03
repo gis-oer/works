@@ -89,6 +89,8 @@
 
 - Applications of Hazard Maps in a Disaster Risk Reduction Education System Based on WebGIS. Jiali Song, Takuro Ogura, Takashi Oguchi, Hiroyuki Yamauchi  International Conference on Earth Observations and Societal Impacts.
 
+- Practice of a GIS education program for junior and senior high school students. Hiroyuki Yamauchi, Takashi Oguchi, Yasutaka Haneda International Cartographic Conference 2019 TOKYO.
+
 ### 発表スライド・ポスター
 
 - [「FOSS4Gを用いたGISオープン教材の開発とGitHubによる運用」](./slides/2017_foss4g_kansai_gis-oer.pdf)山内啓之，小口 高，瀬戸寿一，早川裕弌 2017 FOSS4G KYOTO.KANSAI (資料の[Speaker Deck版](https://speakerdeck.com/yamauchi/foss4gwoyong-itagisopunjiao-cai-falsekai-fa-togithubniyoruyun-yong-2017-foss4g-kyoto-dot-kansai)）
@@ -115,13 +117,13 @@
 - [ひらめき☆ときめきサイエンス デジタル地図とスマホ、ドローン、3Dプリンタで自然環境と人
 間生活を調べよう！](https://www.jsps.go.jp/hirameki/ht30000/ht30062.pdf) 2018/8/17 東京大学 柏キャンパス
 
-- [愛知川最新研究をさわってみよう！](https://e-omi-muse.com/tanken-n/news_detail.html?id=339) : 展示協力　2019/2/22～3/24
+- [愛知川最新研究をさわってみよう！](https://e-omi-muse.com/tanken-n/news_detail.html?id=339) : 展示協力　2019/2/22～3/24　西堀榮三郎記念探検の殿堂
 
 - [Workshop on Applications of Drones to Spatial Information Science](http://www.csis.u-tokyo.ac.jp/blog/research/workshop-20190327/): 2019/3/27, Hiroyuki Yamauchi (CSIS), Education and Outreach of Topographic Studies using UAVs 2019/3/27
 
 - 「オープンソース”QGIS”のデモンストレーション」 2019/5/30　JpGU2019 出展者ショートセミナー
 
-- [好きを仕事に～小さいことの積み重ね～](https://e-omi-muse.com/tanken-n/news_detail.html?id=354) : 展示協力　2019/06/26～9/1
+- [好きを仕事に～小さいことの積み重ね～](https://e-omi-muse.com/tanken-n/news_detail.html?id=354) : 展示協力　2019/06/26～9/1　西堀榮三郎記念探検の殿堂
 
 - [ひらめき☆ときめきサイエンス デジタル地図とスマホ、ドローン、3Dプリンタで自然環境と人
 間生活を調べよう！](https://www.jsps.go.jp/hirameki/ht30000/ht30062.pdf) 2019/8/17 東京大学 柏キャンパス
