@@ -89,7 +89,7 @@
 
 - Applications of Hazard Maps in a Disaster Risk Reduction Education System Based on WebGIS. Jiali Song, Takuro Ogura, Takashi Oguchi, Hiroyuki Yamauchi  International Conference on Earth Observations and Societal Impacts.
 
-- Practice of a GIS education program for junior and senior high school students. Hiroyuki Yamauchi, Takashi Oguchi, Yasutaka Haneda International Cartographic Conference 2019 TOKYO.
+- [Practice of a GIS education program for junior and senior high school students.](http://home.hol.is.uec.ac.jp/icc2019papers/all/514.pdf) Hiroyuki Yamauchi, Takashi Oguchi, Yasutaka Haneda International Cartographic Conference 2019 TOKYO.
 
 ### 発表スライド・ポスター
 
@@ -125,7 +125,7 @@
 
 - [好きを仕事に～小さいことの積み重ね～](https://e-omi-muse.com/tanken-n/news_detail.html?id=354) : 展示協力　2019/06/26～9/1　西堀榮三郎記念探検の殿堂
 
-- 「東近江市教育研究所 夏期研修講座（授業力アップ講座）「社会科現地研修　西堀榮三郎記念探検の殿堂で博物館の機能を学ぼう」」2019/07/25
+- [「東近江市教育研究所 夏期研修講座（授業力アップ講座）「社会科現地研修　西堀榮三郎記念探検の殿堂で博物館の機能を学ぼう」」](http://hdtopography.blogspot.com/2019/07/blog-post.html) 2019/07/25
 
 - [ひらめき☆ときめきサイエンス デジタル地図とスマホ、ドローン、3Dプリンタで自然環境と人
 間生活を調べよう！](https://www.jsps.go.jp/hirameki/ht30000/ht30062.pdf) 2019/8/17 東京大学 柏キャンパス
