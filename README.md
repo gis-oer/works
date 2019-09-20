@@ -3,7 +3,7 @@
 
 ## 論文、プロシーディング
 
-- 山内 啓之, 小口 高, 早川裕弌, 瀬戸寿一 (2019) GISの標準コアカリキュラムと知識体系を踏まえた実習用オープン教材の開発と評価. E-journal GEO, 14 巻, 2 号, p.288-295.
+- 山内 啓之, 小口 高, 早川裕弌, 瀬戸寿一 2019. [GISの標準コアカリキュラムと知識体系を踏まえた実習用オープン教材の開発と評価](https://www.jstage.jst.go.jp/article/ejgeo/14/2/14_288/_article/-char/ja/) E-journal GEO, 14 巻, 2 号, p.288-295.
 
  - Hiroyuki Yamauchi, Takashi Oguchi, Yuichi S. Hayakawa, Toshikazu Seto 2018. Development and operation of GIS exercise materials for undergraduate students. Open Source Geospatial Research & Education Symposium (PeerJ)
 
