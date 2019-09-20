@@ -1,43 +1,41 @@
 # works
 本プロジェクトの主要な業績を公開しています。© GIS Open Educational Resources WG, CC BY-SA 4.0
 
+## 論文、プロシーディング
+
+- 山内 啓之, 小口 高, 早川裕弌, 瀬戸寿一 (2019) GISの標準コアカリキュラムと知識体系を踏まえた実習用オープン教材の開発と評価. E-journal GEO, 14 巻, 2 号, p.288-295.
+
+ - Hiroyuki Yamauchi, Takashi Oguchi, Yuichi S. Hayakawa, Toshikazu Seto 2018. Development and operation of GIS exercise materials for undergraduate students. Open Source Geospatial Research & Education Symposium (PeerJ)
+
+ - 山内啓之，小口高，早川裕弌，倉拓郎，羽田康孝，宋佳麗 2018. 地理総合を想定した教員向けのGIS実習用教材と授業モデルの開発 地理情報システム学会 第27回学術研究発表大会講演論文集(CD-ROM) 
+
+- 山内啓之，小口高，瀬戸寿一，早川裕弌 2017. GitHubによるGISの実習用オープン教材の試験運用. 地理情報システム学会 第26回学術研究発表大会講演論文集(CD-ROM)
+
+- 山内啓之，瀬戸寿一，小口高 2016. GISオープン教材の開発とGitHubを用いた公開. 地理情報システム学会 第25回学術研究発表大会講演論文集(CD-ROM) 
+
 ## 学会等での口頭、ポスター発表
 
-### 2015
+### 2019
 
-- [「GIS の標準コアカリキュラムと知識体系を踏まえた実習用オープン教材の開発」](https://www.jstage.jst.go.jp/article/ajg/2015a/0/2015a_100168/_article/-char/ja/) 小口　高，村山祐司，久保田光一，貞広幸雄，奥貫圭一，山内啓之  日本地理学会2015年秋期学術大会
+- [「GIS実習用教材の改良のための利用状況調査」](https://www.jstage.jst.go.jp/article/ajg/2019s/0/2019s_215/_article/-char/ja) 山内啓之，小口 高，早川裕弌，瀬戸寿一，荻田玲子　日本地理学会2019年春期学術大会
 
-### 2016
+- [「高頻度・高精細地形情報を用いた地理的思考を促す地球科学教育の実践」](https://www.jstage.jst.go.jp/article/ajg/2019s/0/2019s_298/_article/-char/ja) 小倉拓郎，早川裕弌，青木賢人，林 紀代美，山内啓之，小口 高，田村裕彦，小口千明　日本地理学会2019年春期学術大会
 
-- [「GIS の実習用オープン教材の開発－基本事項に関する教材の試作」](https://www.jstage.jst.go.jp/article/ajg/2016s/0/2016s_100299/_article/-char/ja/)山内啓之，小口　高，村山祐司，久保田光一，貞広幸雄，奥貫圭一 日本地理学会2016年春期学術大会
+- [「高精細地形情報によるダンボール立体モデルを用いた自然地理的現象の理解の促進」](https://www.jstage.jst.go.jp/article/ajg/2019s/0/2019s_194/_article/-char/ja) 早川裕弌，小倉拓郎，山内啓之，小口 高，小花和宏之　日本地理学会2019年春期学術大会
 
-- [Providing open-access online materials for GIS exercises.](https://confit.atlas.jp/guide/event/jpgu2016/subject/HTT09-P12/advanced) Takashi Oguchi, Hiroyuki Yamauchi, Yuji Murayama, Koichi Kubota, Yukio Sadahiro, Keiichi Okunuki Japan Geoscience Union Meeting 2016.
+- Education and Outreach of Topographic Studies using UAVs. Hiroyuki Yamauchi Workshop on Applications of Drones to Spatial Information Science
 
-- Development of open-access e-learning material for GIS education. Hiroyuki Yamauchi, Takashi Oguchi The 33rd International Geographical Congress(2016)　
+- [Improvement of GIS exercise classes using the GIS open educational resources based on questionnaire surveys.](https://confit.atlas.jp/guide/event/jpgu2019/subject/HTT19-P04/date?cryptoId=) Hiroyuki Yamauchi, Takashi Oguchi, Yuichi S. Hayakawa, Kotaro Iizuka Japan Geoscience Union Meeting 2019.
 
-- [「GISの実習用オープン教材の開発と公開」](https://www.jstage.jst.go.jp/article/ajg/2016a/0/2016a_100108/_article/-char/ja/)山内啓之，小口　高，村山祐司，久保田光一，貞広幸雄，奥貫圭一 日本地理学会2016年秋期学術大会
+- [Applications of WebGIS to Educating Disaster Risk Reduction for Chinese and Japanese Students.](https://confit.atlas.jp/guide/event/jpgu2019/subject/HTT19-08/advanced) Jiali SONG, Takashi Oguchi, Hiroyuki Yamauchi, Takuro Ogura Japan Geoscience Union Meeting 2019.
 
-- 「GISオープン教材の開発とGitHubを用いた公開」山内啓之，瀬戸寿一，小口　高 地理情報システム学会　第25回学術研究発表大会(2016)
+- [地域の高精細地表情報を活用した環境教育の実践](https://confit.atlas.jp/guide/event/jpgu2019/subject/G02-P04/advanced) 小倉拓郎, 早川裕弌, 田村裕彦, 小口千明, 守田正志, 清水きさら, 緒方啓介, 山内啓之 Japan Geoscience Union Meeting 2019.
 
-### 2017
+- Applications of Hazard Maps in a Disaster Risk Reduction Education System Based on WebGIS. Jiali Song, Takuro Ogura, Takashi Oguchi, Hiroyuki Yamauchi  International Conference on Earth Observations and Societal Impacts.
 
-- [「GISの実習用オープン教材の試験運用と改良」](https://www.jstage.jst.go.jp/article/ajg/2017s/0/2017s_100154/_article/-char/ja/)山内啓之，小口　高，早川裕弌，川又麻央　日本地理学会2017年春期学術大会
+- [Practice of a GIS education program for junior and senior high school students.](http://home.hol.is.uec.ac.jp/icc2019papers/all/514.pdf) Hiroyuki Yamauchi, Takashi Oguchi, Yasutaka Haneda International Cartographic Conference 2019 TOKYO.
 
-- 「FOSS4Gを用いたGISオープン教材の開発」山内啓之，小口　高，瀬戸寿一，早川裕弌 2017 FOSS4G Tokyo
-
-- [「GISの実習用オープン教材の一般公開に向けた改良」](https://www.jstage.jst.go.jp/article/ajg/2017a/0/2017a_100081/_article/-char/ja/)山内啓之，小口　高，早川裕弌　日本地理学会2017年秋期学術大会
-
-- 「FOSS4Gを用いたGISオープン教材の開発とGitHubによる運用」山内啓之，小口　高，瀬戸寿一，早川裕弌 2017 FOSS4G KYOTO.KANSAI
-
-- 「GitHubによるGISの実習用オープン教材の試験運用」山内啓之，小口　高，瀬戸寿一，早川裕弌 地理情報システム学会　第26回学術研究発表大会(2017)
-
-- DEVELOPING OPEN-ACCESS E-LEANING MATERIALS FOR GIS EDUCATION RELATED TO TERRAIN ANALYSIS. Hiroyuki Yamauchi, Yuichi S. Hayakawa, Takashi Oguchi 9th INTERNATIONAL CONFERENCE ON GEOMORPHOLOGY (9th ICG), THEME: S21 : APPLICATION OF REMOTE SENSING (RS) AND GEOGRAPHICAL INFORMATION SYSTEM (GIS) IN GEOMORPHOLOGY, ABSTRACT NUMBER: 727.
-
-- [「GISの実習用オープン教材の開発とGitHubによる運用」](http://www.csis.u-tokyo.ac.jp/csisdays2017/program.html)山内啓之，小口　高 CSIS DAYS 2017
-
-- 「GISの実習用オープン教材における地形分野の教材の特徴」 山内啓之，早川裕弌，小口　高　日本地形学連合 2017年秋季大会
-
-- [Providing open-access online materials and hands-on sessions for GIS exercises.](https://agu.confex.com/agu/fm17/preliminaryview.cgi/Paper234373.html) Takashi Oguchi, Hiroyuki Yamauchi and Yuichi S. Hayakawa 2017 AGU Fall Meeting, Demonstrations, Hands-on Activities and Simple Measurements for Education.
+- 「3Dプリントによる地形模型の教育的活用」山内啓之, 小口　高, 早川裕弌, 小倉拓郎, 淺野悟史 日本地理学会2019年秋期学術大会
 
 ### 2018
 
@@ -71,25 +69,41 @@
 
 - Use of high-frequency, high-definition topographic 3D data to develop geographic thinking of students. Takuro Ogura, Yuichi S. Hayakawa, Hiroyuki Yamauchi, Takashi Oguchi, Yasuhiko Tamura, Chiaki T Oguchi, Tatsuto Aoki, Kiyomi Hayashi AGU Fall Meeting 2018.
 
-### 2019
+### 2017
 
-- 「GIS実習用教材の改良のための利用状況調査」山内啓之，小口 高，早川裕弌，瀬戸寿一，荻田玲子　日本地理学会2019年春期学術大会
+- [「GISの実習用オープン教材の試験運用と改良」](https://www.jstage.jst.go.jp/article/ajg/2017s/0/2017s_100154/_article/-char/ja/)山内啓之，小口　高，早川裕弌，川又麻央　日本地理学会2017年春期学術大会
 
-- 「高頻度・高精細地形情報を用いた地理的思考を促す地球科学教育の実践」小倉拓郎，早川裕弌，青木賢人，林 紀代美，山内啓之，小口 高，田村裕彦，小口千明　日本地理学会2019年春期学術大会
+- 「FOSS4Gを用いたGISオープン教材の開発」山内啓之，小口　高，瀬戸寿一，早川裕弌 2017 FOSS4G Tokyo
 
-- 「高精細地形情報によるダンボール立体モデルを用いた自然地理的現象の理解の促進」早川裕弌，小倉拓郎，山内啓之，小口 高，小花和宏之　日本地理学会2019年春期学術大会
+- [「GISの実習用オープン教材の一般公開に向けた改良」](https://www.jstage.jst.go.jp/article/ajg/2017a/0/2017a_100081/_article/-char/ja/)山内啓之，小口　高，早川裕弌　日本地理学会2017年秋期学術大会
 
-- Education and Outreach of Topographic Studies using UAVs. Hiroyuki Yamauchi Workshop on Applications of Drones to Spatial Information Science
+- 「FOSS4Gを用いたGISオープン教材の開発とGitHubによる運用」山内啓之，小口　高，瀬戸寿一，早川裕弌 2017 FOSS4G KYOTO.KANSAI
 
-- Improvement of GIS exercise classes using the GIS open educational resources based on questionnaire surveys. Hiroyuki Yamauchi, Takashi Oguchi, Yuichi S. Hayakawa, Kotaro Iizuka Japan Geoscience Union Meeting 2019.
+- 「GitHubによるGISの実習用オープン教材の試験運用」山内啓之，小口　高，瀬戸寿一，早川裕弌 地理情報システム学会　第26回学術研究発表大会(2017)
 
-- Applications of WebGIS to Educating Disaster Risk Reduction for Chinese and Japanese Students. Jiali SONG, Takashi Oguchi, Hiroyuki Yamauchi, Takuro Ogura Japan Geoscience Union Meeting 2019.
+- DEVELOPING OPEN-ACCESS E-LEANING MATERIALS FOR GIS EDUCATION RELATED TO TERRAIN ANALYSIS. Hiroyuki Yamauchi, Yuichi S. Hayakawa, Takashi Oguchi 9th INTERNATIONAL CONFERENCE ON GEOMORPHOLOGY (9th ICG), THEME: S21 : APPLICATION OF REMOTE SENSING (RS) AND GEOGRAPHICAL INFORMATION SYSTEM (GIS) IN GEOMORPHOLOGY, ABSTRACT NUMBER: 727.
 
-- Practice of environmental study utilizing local high-definition topographic data. Takuro Ogura, Yuichi S. Hayakawa, Yasuhiko Tamura, Chiaki T. Oguchi, Masashi Morita, Kisara Shimizu, OGATA KEISUKE, Hiroyuki Yamauchi Japan Geoscience Union Meeting 2019.
+- [「GISの実習用オープン教材の開発とGitHubによる運用」](http://www.csis.u-tokyo.ac.jp/csisdays2017/program.html)山内啓之，小口　高 CSIS DAYS 2017
 
-- Applications of Hazard Maps in a Disaster Risk Reduction Education System Based on WebGIS. Jiali Song, Takuro Ogura, Takashi Oguchi, Hiroyuki Yamauchi  International Conference on Earth Observations and Societal Impacts.
+- 「GISの実習用オープン教材における地形分野の教材の特徴」 山内啓之，早川裕弌，小口　高　日本地形学連合 2017年秋季大会
 
-- [Practice of a GIS education program for junior and senior high school students.](http://home.hol.is.uec.ac.jp/icc2019papers/all/514.pdf) Hiroyuki Yamauchi, Takashi Oguchi, Yasutaka Haneda International Cartographic Conference 2019 TOKYO.
+- [Providing open-access online materials and hands-on sessions for GIS exercises.](https://agu.confex.com/agu/fm17/preliminaryview.cgi/Paper234373.html) Takashi Oguchi, Hiroyuki Yamauchi and Yuichi S. Hayakawa 2017 AGU Fall Meeting, Demonstrations, Hands-on Activities and Simple Measurements for Education.
+
+### 2016
+
+- [「GIS の実習用オープン教材の開発－基本事項に関する教材の試作」](https://www.jstage.jst.go.jp/article/ajg/2016s/0/2016s_100299/_article/-char/ja/)山内啓之，小口　高，村山祐司，久保田光一，貞広幸雄，奥貫圭一 日本地理学会2016年春期学術大会
+
+- [Providing open-access online materials for GIS exercises.](https://confit.atlas.jp/guide/event/jpgu2016/subject/HTT09-P12/advanced) Takashi Oguchi, Hiroyuki Yamauchi, Yuji Murayama, Koichi Kubota, Yukio Sadahiro, Keiichi Okunuki Japan Geoscience Union Meeting 2016.
+
+- Development of open-access e-learning material for GIS education. Hiroyuki Yamauchi, Takashi Oguchi The 33rd International Geographical Congress(2016)　
+
+- [「GISの実習用オープン教材の開発と公開」](https://www.jstage.jst.go.jp/article/ajg/2016a/0/2016a_100108/_article/-char/ja/)山内啓之，小口　高，村山祐司，久保田光一，貞広幸雄，奥貫圭一 日本地理学会2016年秋期学術大会
+
+- 「GISオープン教材の開発とGitHubを用いた公開」山内啓之，瀬戸寿一，小口　高 地理情報システム学会　第25回学術研究発表大会(2016)
+
+### 2015
+
+- [「GIS の標準コアカリキュラムと知識体系を踏まえた実習用オープン教材の開発」](https://www.jstage.jst.go.jp/article/ajg/2015a/0/2015a_100168/_article/-char/ja/) 小口　高，村山祐司，久保田光一，貞広幸雄，奥貫圭一，山内啓之  日本地理学会2015年秋期学術大会
 
 ### 発表スライド・ポスター
 
