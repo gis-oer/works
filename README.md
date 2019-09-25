@@ -5,7 +5,7 @@
 
 - 山内 啓之, 小口 高, 早川裕弌, 瀬戸寿一 2019. [GISの標準コアカリキュラムと知識体系を踏まえた実習用オープン教材の開発と評価](https://www.jstage.jst.go.jp/article/ejgeo/14/2/14_288/_article/-char/ja/) E-journal GEO, 14 巻, 2 号, p.288-295.
 
- - Hiroyuki Yamauchi, Takashi Oguchi, Yuichi S. Hayakawa, Toshikazu Seto 2018. Development and operation of GIS exercise materials for undergraduate students. Open Source Geospatial Research & Education Symposium (PeerJ)
+ - Hiroyuki Yamauchi, Takashi Oguchi, Yuichi S. Hayakawa, Toshikazu Seto 2018. [Development and operation of GIS exercise materials for undergraduate students.](https://peerj.com/preprints/27219/) Open Source Geospatial Research & Education Symposium (PeerJ)
 
  - 山内啓之，小口高，早川裕弌，倉拓郎，羽田康孝，宋佳麗 2018. 地理総合を想定した教員向けのGIS実習用教材と授業モデルの開発 地理情報システム学会 第27回学術研究発表大会講演論文集(CD-ROM) 
 
@@ -35,7 +35,7 @@
 
 - [Practice of a GIS education program for junior and senior high school students.](http://home.hol.is.uec.ac.jp/icc2019papers/all/514.pdf) Hiroyuki Yamauchi, Takashi Oguchi, Yasutaka Haneda International Cartographic Conference 2019 TOKYO.
 
-- 「3Dプリントによる地形模型の教育的活用」山内啓之, 小口　高, 早川裕弌, 小倉拓郎, 淺野悟史 日本地理学会2019年秋期学術大会
+- [「3Dプリントによる地形模型の教育的活用」](https://www.jstage.jst.go.jp/article/ajg/2019a/0/2019a_73/_article/-char/ja)山内啓之, 小口　高, 早川裕弌, 小倉拓郎, 淺野悟史 日本地理学会2019年秋期学術大会
 
 ### 2018
 
