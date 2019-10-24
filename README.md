@@ -5,23 +5,25 @@
 
 - 山内 啓之, 小口 高, 早川裕弌, 瀬戸寿一 2019. [GISの標準コアカリキュラムと知識体系を踏まえた実習用オープン教材の開発と評価](https://www.jstage.jst.go.jp/article/ejgeo/14/2/14_288/_article/-char/ja/) E-journal GEO, 14 巻, 2 号, p.288-295.
 
+- 山内啓之， 小口 高， 早川裕弌， 瀬戸寿一 2019. 改訂版GIS&T BoKとGIS実習用オープン教材の解説項目の比較. 地理情報システム学会 第28回学術研究発表大会講演論文集(CD-ROM)
+
  - Hiroyuki Yamauchi, Takashi Oguchi, Yuichi S. Hayakawa, Toshikazu Seto 2018. [Development and operation of GIS exercise materials for undergraduate students.](https://peerj.com/preprints/27219/) Open Source Geospatial Research & Education Symposium (PeerJ)
 
- - 山内啓之，小口高，早川裕弌，倉拓郎，羽田康孝，宋佳麗 2018. 地理総合を想定した教員向けのGIS実習用教材と授業モデルの開発 地理情報システム学会 第27回学術研究発表大会講演論文集(CD-ROM) 
+ - 山内啓之， 小口 高， 早川裕弌， 小倉拓郎， 羽田康孝， 宋佳麗 2018. 地理総合を想定した教員向けのGIS実習用教材と授業モデルの開発 地理情報システム学会 第27回学術研究発表大会講演論文集(CD-ROM) 
 
-- 山内啓之，小口高，瀬戸寿一，早川裕弌 2017. GitHubによるGISの実習用オープン教材の試験運用. 地理情報システム学会 第26回学術研究発表大会講演論文集(CD-ROM)
+- 山内啓之， 小口 高， 瀬戸寿一， 早川裕弌 2017. GitHubによるGISの実習用オープン教材の試験運用. 地理情報システム学会 第26回学術研究発表大会講演論文集(CD-ROM)
 
-- 山内啓之，瀬戸寿一，小口高 2016. GISオープン教材の開発とGitHubを用いた公開. 地理情報システム学会 第25回学術研究発表大会講演論文集(CD-ROM) 
+- 山内啓之， 瀬戸寿一， 小口高 2016. GISオープン教材の開発とGitHubを用いた公開. 地理情報システム学会 第25回学術研究発表大会講演論文集(CD-ROM) 
 
 ## 学会等での口頭、ポスター発表
 
 ### 2019
 
-- [「GIS実習用教材の改良のための利用状況調査」](https://www.jstage.jst.go.jp/article/ajg/2019s/0/2019s_215/_article/-char/ja) 山内啓之，小口 高，早川裕弌，瀬戸寿一，荻田玲子　日本地理学会2019年春期学術大会
+- [「GIS実習用教材の改良のための利用状況調査」](https://www.jstage.jst.go.jp/article/ajg/2019s/0/2019s_215/_article/-char/ja) 山内啓之，小口 高， 早川裕弌， 瀬戸寿一， 荻田玲子　日本地理学会2019年春期学術大会
 
-- [「高頻度・高精細地形情報を用いた地理的思考を促す地球科学教育の実践」](https://www.jstage.jst.go.jp/article/ajg/2019s/0/2019s_298/_article/-char/ja) 小倉拓郎，早川裕弌，青木賢人，林 紀代美，山内啓之，小口 高，田村裕彦，小口千明　日本地理学会2019年春期学術大会
+- [「高頻度・高精細地形情報を用いた地理的思考を促す地球科学教育の実践」](https://www.jstage.jst.go.jp/article/ajg/2019s/0/2019s_298/_article/-char/ja) 小倉拓郎， 早川裕弌， 青木賢人， 林 紀代美， 山内啓之， 小口 高， 田村裕彦， 小口千明　日本地理学会2019年春期学術大会
 
-- [「高精細地形情報によるダンボール立体モデルを用いた自然地理的現象の理解の促進」](https://www.jstage.jst.go.jp/article/ajg/2019s/0/2019s_194/_article/-char/ja) 早川裕弌，小倉拓郎，山内啓之，小口 高，小花和宏之　日本地理学会2019年春期学術大会
+- [「高精細地形情報によるダンボール立体モデルを用いた自然地理的現象の理解の促進」](https://www.jstage.jst.go.jp/article/ajg/2019s/0/2019s_194/_article/-char/ja) 早川裕弌， 小倉拓郎， 山内啓之， 小口 高， 小花和宏之　日本地理学会2019年春期学術大会 
 
 - Education and Outreach of Topographic Studies using UAVs. Hiroyuki Yamauchi Workshop on Applications of Drones to Spatial Information Science
 
@@ -36,6 +38,8 @@
 - [Practice of a GIS education program for junior and senior high school students.](http://home.hol.is.uec.ac.jp/icc2019papers/all/514.pdf) Hiroyuki Yamauchi, Takashi Oguchi, Yasutaka Haneda International Cartographic Conference 2019 TOKYO.
 
 - [「3Dプリントによる地形模型の教育的活用」](https://www.jstage.jst.go.jp/article/ajg/2019a/0/2019a_73/_article/-char/ja)山内啓之, 小口　高, 早川裕弌, 小倉拓郎, 淺野悟史 日本地理学会2019年秋期学術大会
+
+- 山内啓之， 小口 高， 早川裕弌， 瀬戸寿一 2019. 改訂版GIS&T BoKとGIS実習用オープン教材の解説項目の比較. 地理情報システム学会 第28回学術研究発表大会
 
 ### 2018
 
