@@ -111,17 +111,8 @@
 
 - [「GIS の標準コアカリキュラムと知識体系を踏まえた実習用オープン教材の開発」](https://www.jstage.jst.go.jp/article/ajg/2015a/0/2015a_100168/_article/-char/ja/) 小口　高，村山祐司，久保田光一，貞広幸雄，奥貫圭一，山内啓之  日本地理学会2015年秋期学術大会
 
-### 発表スライド・ポスター
-
-- [「FOSS4Gを用いたGISオープン教材の開発とGitHubによる運用」](./slides/2017_foss4g_kansai_gis-oer.pdf)山内啓之，小口 高，瀬戸寿一，早川裕弌 2017 FOSS4G KYOTO.KANSAI (資料の[Speaker Deck版](https://speakerdeck.com/yamauchi/foss4gwoyong-itagisopunjiao-cai-falsekai-fa-togithubniyoruyun-yong-2017-foss4g-kyoto-dot-kansai)）
-
-- Development of open-access e-learning material for GIS education. Hiroyuki Yamauchi, Takashi Oguchi The 33rd International Geographical Congress(2016)　[Poster](https://github.com/gis-oer/works/blob/master/poster_en/Development%20of%20open-access%20e-learning%20material%20for%20GIS%20education.pdf)
-
-- DEVELOPING OPEN-ACCESS E-LEANING MATERIALS FOR GIS EDUCATION RELATED TO TERRAIN ANALYSIS. Hiroyuki Yamauchi, Yuichi S. Hayakawa, Takashi Oguchi 9th INTERNATIONAL CONFERENCE ON GEOMORPHOLOGY [Poster](https://github.com/gis-oer/works/blob/master/poster_en/Developing%20Open-access%20E-learning%20Materials%20for%20GIS%20Education%20Related%20to%20Terrain%20Analysis.pdf)
-
-- 「GIS実習オープン教材の開発と運用状況」  山内 啓之, 小口 高, 　早川 裕弌, 瀬戸 寿一　 2018 FOSS4G Hokkaido (資料の[Speaker Deck版](https://speakerdeck.com/yamauchi/20180623-gisshi-xi-opunjiao-cai-falsekai-fa-toyun-yong-zhuang-kuang))
-
-- [「QGISを用いた中高生向けGIS教育の実践とその課題」](https://www.osgeo.jp/events/foss4g-2018/foss4g-2018-tokyo/foss4g-2018-tokyo-coreday#jirei1-2)山内啓之，小口　高，羽田康孝　2018 FOSS4G Tokyo (資料の[Speaker Deck版](https://speakerdeck.com/yamauchi/20181110-qgiswoyong-itazhong-gao-sheng-xiang-kegisjiao-yu-falseshi-jian-tosofalseke-ti))
+## 受賞歴
+- Geoアクティビティコンテスト2019（国土地理院）地理教育賞
 
 ## 講習会・ワークショップ・展示等
 
@@ -149,3 +140,15 @@
 
 - [ひらめき☆ときめきサイエンス デジタル地図とスマホ、ドローン、3Dプリンタで自然環境と人
 間生活を調べよう！](https://www.jsps.go.jp/hirameki/ht30000/ht30062.pdf) 2019/8/17 東京大学 柏キャンパス
+
+### 発表スライド・ポスター
+
+- [「FOSS4Gを用いたGISオープン教材の開発とGitHubによる運用」](./slides/2017_foss4g_kansai_gis-oer.pdf)山内啓之，小口 高，瀬戸寿一，早川裕弌 2017 FOSS4G KYOTO.KANSAI (資料の[Speaker Deck版](https://speakerdeck.com/yamauchi/foss4gwoyong-itagisopunjiao-cai-falsekai-fa-togithubniyoruyun-yong-2017-foss4g-kyoto-dot-kansai)）
+
+- Development of open-access e-learning material for GIS education. Hiroyuki Yamauchi, Takashi Oguchi The 33rd International Geographical Congress(2016)　[Poster](https://github.com/gis-oer/works/blob/master/poster_en/Development%20of%20open-access%20e-learning%20material%20for%20GIS%20education.pdf)
+
+- DEVELOPING OPEN-ACCESS E-LEANING MATERIALS FOR GIS EDUCATION RELATED TO TERRAIN ANALYSIS. Hiroyuki Yamauchi, Yuichi S. Hayakawa, Takashi Oguchi 9th INTERNATIONAL CONFERENCE ON GEOMORPHOLOGY [Poster](https://github.com/gis-oer/works/blob/master/poster_en/Developing%20Open-access%20E-learning%20Materials%20for%20GIS%20Education%20Related%20to%20Terrain%20Analysis.pdf)
+
+- 「GIS実習オープン教材の開発と運用状況」  山内 啓之, 小口 高, 　早川 裕弌, 瀬戸 寿一　 2018 FOSS4G Hokkaido (資料の[Speaker Deck版](https://speakerdeck.com/yamauchi/20180623-gisshi-xi-opunjiao-cai-falsekai-fa-toyun-yong-zhuang-kuang))
+
+- [「QGISを用いた中高生向けGIS教育の実践とその課題」](https://www.osgeo.jp/events/foss4g-2018/foss4g-2018-tokyo/foss4g-2018-tokyo-coreday#jirei1-2)山内啓之，小口　高，羽田康孝　2018 FOSS4G Tokyo (資料の[Speaker Deck版](https://speakerdeck.com/yamauchi/20181110-qgiswoyong-itazhong-gao-sheng-xiang-kegisjiao-yu-falseshi-jian-tosofalseke-ti))
