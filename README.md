@@ -43,6 +43,10 @@
 
 - 「GIS実習オープン教材の利用実態と普及状況の調査」山内啓之, 小口 高, 早川裕弌, 瀬戸寿一　CSIS DAYS 2019.
 
+- [Developing and operating GIS Open Educational Resources for Japanese university students AGU Fall Meeting.](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/528184) Hiroyuki Yamauchi, Takashi Oguchi, Yuichi S. Hayakawa, Toshikazu Seto AGU Fall Meeting 2019.
+
+- [Training of Geography teachers for environmental education in cooperation with a local museum](https://agu.confex.com/agu/fm19/meetingapp.cgi/Paper/565473) Hiroyuki Yamauchi, Takuro Ogura, Sakie Sumikawa, Satoshi Asano, Takashi Oguchi, Ikuru Ishibashi AGU Fall Meeting 2019.
+
 ### 2018　　
 
 - 「高精細地形情報とGISを用いた地形模型の製作とオープン教材の開発」山内啓之， 早川裕弌， 小口　高 第9回GIS-Landslide研究集会および第5回高解像度地形情報シンポジウム E4
