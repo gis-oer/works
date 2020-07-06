@@ -18,7 +18,10 @@
 ## 学会等での口頭、ポスター発表
 
 ### 2020
-「中高生を対象としたGISの教育プログラムの実践と評価」山内啓之，小口　高，早川裕弌，飯塚浩太郎，宋　佳麗，小倉拓郎　日本地理学会2020年春期学術大会
+
+- Hiroyuki Yamauchi, Takashi Oguchi, Yuichi S. Hayakawa, Toshikazu Seto 2020. [Development of e-learning materials for GIS exercises in Japan and their outcomes](https://confit.atlas.jp/guide/event/jpgu2020/subject/U10-P04/advanced) JpGU-AGU joint meeting 2020:virtual.
+
+- 「中高生を対象としたGISの教育プログラムの実践と評価」山内啓之，小口　高，早川裕弌，飯塚浩太郎，宋　佳麗，小倉拓郎　日本地理学会2020年春期学術大会
 
 ### 2019
 
