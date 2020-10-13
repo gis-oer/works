@@ -127,11 +127,11 @@
 
 ## 講習会・ワークショップ・展示・記事等
 
-- [Geo展 2020](https://www.geoten.org/) 2020/11/27(online)
+- [Geo展 2020](https://www.geoten.org/) :出展　2020/11/27　online
 
-- [G空間情報センター　ショーケース ～教育分野におけるGIS活用支援 ～GIS実習オープン教材～](https://www.geospatial.jp/gp_front/education) 2020
+- [G空間情報センター　ショーケース ～教育分野におけるGIS活用支援 ～GIS実習オープン教材～](https://www.geospatial.jp/gp_front/education) :取材協力　2020
 
-- [Geoアクティビティコンテスト2019（国土地理院）](https://g-expo.jp/2019/geocon/) 2019/11/28-30
+- [Geoアクティビティコンテスト2019（国土地理院）](https://g-expo.jp/2019/geocon/) :出展　2019/11/28-30　日本科学未来館
 
 - [ひらめき☆ときめきサイエンス デジタル地図とスマホ、ドローン、3Dプリンタで自然環境と人
 間生活を調べよう！](https://www.jsps.go.jp/hirameki/ht30000/ht30062.pdf) 2019/8/17 東京大学 柏キャンパス
