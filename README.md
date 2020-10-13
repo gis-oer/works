@@ -129,7 +129,7 @@
 
 - [Geo展 2020](https://www.geoten.org/) 2020/11/27(online)
 
-- [G空間情報センター　ショーケース ～教育分野におけるGIS活用支援 ～GIS実習オープン教材～] (https://www.geospatial.jp/gp_front/education) 2020
+- [G空間情報センター　ショーケース ～教育分野におけるGIS活用支援 ～GIS実習オープン教材～](https://www.geospatial.jp/gp_front/education) 2020
 
 - [Geoアクティビティコンテスト2019（国土地理院）](https://g-expo.jp/2019/geocon/) 2019/11/28-30
 
