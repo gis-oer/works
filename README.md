@@ -122,34 +122,41 @@
 - [「GIS の標準コアカリキュラムと知識体系を踏まえた実習用オープン教材の開発」](https://www.jstage.jst.go.jp/article/ajg/2015a/0/2015a_100168/_article/-char/ja/) 小口　高，村山祐司，久保田光一，貞広幸雄，奥貫圭一，山内啓之  日本地理学会2015年秋期学術大会
 
 ## 受賞歴
-- [Geoアクティビティコンテスト2019（国土地理院）地理教育賞](http://www.g-expo.jp/geocon/award.html)
 
-## 講習会・ワークショップ・展示等
+- [Geoアクティビティコンテスト2019（国土地理院）地理教育賞](https://g-expo.jp/2019/geocon/award.html/)  2019/11/30
 
-- 「地球惑星科学に使えるQGISのオープン教材」 2017/5/20　JpGU2017 出展者ショートセミナー
+## 講習会・ワークショップ・展示・記事等
 
-- [「QGIS入門講習会 第1回 地形環境の分析に使えるQGIS入門」](https://github.com/gis-oer/seminar/tree/master/2017_07_csis) 2017/7/28 東京大学空間情報科学研究センター
+- [Geo展 2020](https://www.geoten.org/) 2020/11/27(online)
 
-- 「オープンソース”QGIS”のデモンストレーション」 2018/5/24　JpGU2018 出展者ショートセミナー
+- [G空間情報センター　ショーケース ～教育分野におけるGIS活用支援 ～GIS実習オープン教材～] (https://www.geospatial.jp/gp_front/education) 2020
+
+- [Geoアクティビティコンテスト2019（国土地理院）](https://g-expo.jp/2019/geocon/) 2019/11/28-30
 
 - [ひらめき☆ときめきサイエンス デジタル地図とスマホ、ドローン、3Dプリンタで自然環境と人
-間生活を調べよう！](https://www.jsps.go.jp/hirameki/ht30000/ht30062.pdf) 2018/8/3 東京大学 柏キャンパス
+間生活を調べよう！](https://www.jsps.go.jp/hirameki/ht30000/ht30062.pdf) 2019/8/17 東京大学 柏キャンパス
+
+- [「東近江市教育研究所 夏期研修講座（授業力アップ講座）「社会科現地研修　西堀榮三郎記念探検の殿堂で博物館の機能を学ぼう」」](http://hdtopography.blogspot.com/2019/07/blog-post.html) 2019/07/25
+
+- [好きを仕事に～小さいことの積み重ね～](https://e-omi-muse.com/tanken-n/news_detail.html?id=354) : 展示協力　2019/06/26～9/1　西堀榮三郎記念探検の殿堂
+
+- 「オープンソース”QGIS”のデモンストレーション」 2019/5/30　JpGU2019 出展者ショートセミナー
+
+- [Workshop on Applications of Drones to Spatial Information Science](http://www.csis.u-tokyo.ac.jp/blog/research/workshop-20190327/): 2019/3/27, Hiroyuki Yamauchi (CSIS), Education and Outreach of Topographic Studies using UAVs 2019/3/27
+
+- [愛知川最新研究をさわってみよう！](https://e-omi-muse.com/tanken-n/news_detail.html?id=339) : 展示協力　2019/2/22～3/24　西堀榮三郎記念探検の殿堂
 
 - [ひらめき☆ときめきサイエンス デジタル地図とスマホ、ドローン、3Dプリンタで自然環境と人
 間生活を調べよう！](https://www.jsps.go.jp/hirameki/ht30000/ht30062.pdf) 2018/8/17 東京大学 柏キャンパス
 
-- [愛知川最新研究をさわってみよう！](https://e-omi-muse.com/tanken-n/news_detail.html?id=339) : 展示協力　2019/2/22～3/24　西堀榮三郎記念探検の殿堂
-
-- [Workshop on Applications of Drones to Spatial Information Science](http://www.csis.u-tokyo.ac.jp/blog/research/workshop-20190327/): 2019/3/27, Hiroyuki Yamauchi (CSIS), Education and Outreach of Topographic Studies using UAVs 2019/3/27
-
-- 「オープンソース”QGIS”のデモンストレーション」 2019/5/30　JpGU2019 出展者ショートセミナー
-
-- [好きを仕事に～小さいことの積み重ね～](https://e-omi-muse.com/tanken-n/news_detail.html?id=354) : 展示協力　2019/06/26～9/1　西堀榮三郎記念探検の殿堂
-
-- [「東近江市教育研究所 夏期研修講座（授業力アップ講座）「社会科現地研修　西堀榮三郎記念探検の殿堂で博物館の機能を学ぼう」」](http://hdtopography.blogspot.com/2019/07/blog-post.html) 2019/07/25
-
 - [ひらめき☆ときめきサイエンス デジタル地図とスマホ、ドローン、3Dプリンタで自然環境と人
-間生活を調べよう！](https://www.jsps.go.jp/hirameki/ht30000/ht30062.pdf) 2019/8/17 東京大学 柏キャンパス
+間生活を調べよう！](https://www.jsps.go.jp/hirameki/ht30000/ht30062.pdf) 2018/8/3 東京大学 柏キャンパス
+
+- 「オープンソース”QGIS”のデモンストレーション」 2018/5/24　JpGU2018 出展者ショートセミナー
+
+- [「QGIS入門講習会 第1回 地形環境の分析に使えるQGIS入門」](https://github.com/gis-oer/seminar/tree/master/2017_07_csis) 2017/7/28 東京大学空間情報科学研究センター
+
+- 「地球惑星科学に使えるQGISのオープン教材」 2017/5/20　JpGU2017 出展者ショートセミナー
 
 ### 発表スライド・ポスター
 
