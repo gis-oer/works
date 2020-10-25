@@ -123,6 +123,8 @@
 
 ## 受賞歴
 
+- [地理情報システム学会 2020年度学会賞（教育部門）](https://www.gisa-japan.org/awards/recipients.html) 2020/10/25
+
 - [Geoアクティビティコンテスト2019（国土地理院）地理教育賞](https://g-expo.jp/2019/geocon/award.html/)  2019/11/30
 
 ## 講習会・ワークショップ・展示・記事等
