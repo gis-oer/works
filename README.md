@@ -22,6 +22,16 @@
 
 ### 2020
 
+- Takashi Oguchi, Hiroyuki Yamauchi, Yuichi S. Hayakawa, Toshikazu Seto 2020. Providing Open Learning Materials to Study How to Use GIS AGU Fall Meeting 2020
+
+- Hiroyuki Yamauchi, Takashi Oguchi 2020. Improvement of GIS exercise materials for university students based on questionnaire surveys AGU Fall Meeting 2020
+
+- Takuro Ogura, Hiroyuki Yamauchi, Jiali Song, Yuichi S. Hayakawa, Takashi Oguchi 2020. Evaluation of a remote system for undergraduate students to learn how to teach geography in junior high schools AGU Fall Meeting 2020.
+
+- 山内啓之, 小口高, 小倉拓郎 2020. GISを用いた地形のオープン教材の試作と評価 日本地形学連合2020年秋季大会（オンライン）
+
+- Hiroyuki Yamauchi, Takashi Oguchi, Jiali Song 2020. Implementation of Disaster Prevention Workshops for Different Age Groups Using Printed Maps and GIS INNOVATIONS IN DISASTER RISK REDUCTION: AIMING TOWARDS A RESILIENT SOCIETY
+
 - Hiroyuki Yamauchi, Takashi Oguchi, Yuichi S. Hayakawa, Toshikazu Seto 2020. [Development of e-learning materials for GIS exercises in Japan and their outcomes](https://confit.atlas.jp/guide/event/jpgu2020/subject/U10-P04/advanced) JpGU-AGU joint meeting 2020:virtual.
 
 - 「中高生を対象としたGISの教育プログラムの実践と評価」山内啓之，小口　高，早川裕弌，飯塚浩太郎，宋　佳麗，小倉拓郎　日本地理学会2020年春期学術大会
