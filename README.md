@@ -20,6 +20,20 @@
 
 ## 学会等での口頭、ポスター発表
 
+### 2021
+
+- 飯塚浩太郎, 山内, 啓之, 鶴岡, 謙一, 小倉, 拓郎, 三好, 由起, 小口 高 2021. 地球科学分野における高等教育の充実のためのVR空間の試作 バーチャル学会 2021
+
+- 山内啓之, 鶴岡謙一, 飯塚浩太郎, 小口 高 2021. 高精細地形情報とVR技術を用いた野外調査の体験アプリの試作, CSIS DAYS 2021
+
+- Hiroyuki Yamauchi, Takashi Oguchi, Yuichi S. Hayakawa, Takuro Ogura 2021. Effects of 3D Printed Terrain Models and VR Applications on Geography Education 3rd GLP Asia Conference
+
+- Takuro Ogura, Yuichi S. Hayakawa, Hiroyuki Yamauchi, Yasuhiko Tamura, Tatsuto Aoki 2021. Utilization of High-Definition Topographic Data for Developing Multi-Scale Spatial-Temporal Cognition of Local Environments 3rd GLP Asia Conference
+
+- Hiroyuki Yamauchi, Jiali Song, Takashi Oguchi 2021. Online Workshop for Educating Disaster Risk Reduction using a Simplistic Digital Map with Basic GIS functions 日本地球惑星科学連合2021年大会
+
+- Takuro Ogura, Satoshi Asano, Hiroyuki Yamauchi, Ami Kobayashi, Kyoko Muto, Sakie Sumikawa, Yuichi S. Hayakawa 2021. Enhancing understandings of geomorphological processes using multi-temporal 3D print models 日本地球惑星科学連合2021年大会
+
 ### 2020
 
 - Takashi Oguchi, Hiroyuki Yamauchi, Yuichi S. Hayakawa, Toshikazu Seto 2020. Providing Open Learning Materials to Study How to Use GIS AGU Fall Meeting 2020
