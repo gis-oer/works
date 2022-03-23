@@ -2,6 +2,9 @@
 本プロジェクトの主要な業績を公開しています。© GIS Open Educational Resources WG, CC BY-SA 4.0
 
 ## 論文、プロシーディング
+- Jiali Song, Hiroyuki Yamauchi, Takashi Oguchi, Takuro Ogura 2022. [Application of web hazard maps to high school education for disaster risk reduction](https://www.sciencedirect.com/science/article/abs/pii/S2212420922000851), International Journal of Disaster Risk Reduction, 72, 102866-102866. 
+
+- 山内啓之, 小口 高, 小倉拓郎 2020. [GISを用いた地形教育のためのオープン教材の試作と評価](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202102238915865466), 地形 41(4) 363-375.
 
 - 山内 啓之, 小口 高, 早川裕弌, 瀬戸寿一 2019. [GISの標準コアカリキュラムと知識体系を踏まえた実習用オープン教材の開発と評価](https://www.jstage.jst.go.jp/article/ejgeo/14/2/14_288/_article/-char/ja/) E-journal GEO, 14 巻, 2 号, p.288-295.
 
