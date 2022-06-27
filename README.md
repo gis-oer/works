@@ -1,12 +1,20 @@
-# works
+# 主要な業績一覧
+
 本プロジェクトの主要な業績を公開しています。© GIS Open Educational Resources WG, CC BY-SA 4.0
 
-## 論文、プロシーディング
+## 論文
+
+- 山内 啓之, 鶴岡 謙一, 小倉 拓郎, 田村 裕彦, 早川 裕弌, 飯塚 浩太郎, 小口 高 2022. [三次元地理空間情報とVR技術を用いた遺構の散策アプリの試作と評価 －地理教育への応用に向けて－ ](https://www.jstage.jst.go.jp/article/ejgeo/17/1/17_169/_article/-char/ja/).E-journal GEO, 17(1), 169-179.
+
 - Jiali Song, Hiroyuki Yamauchi, Takashi Oguchi, Takuro Ogura 2022. [Application of web hazard maps to high school education for disaster risk reduction](https://www.sciencedirect.com/science/article/abs/pii/S2212420922000851), International Journal of Disaster Risk Reduction, 72, 102866-102866. 
 
 - 山内啓之, 小口 高, 小倉拓郎 2020. [GISを用いた地形教育のためのオープン教材の試作と評価](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=202102238915865466), 地形 41(4) 363-375.
 
-- 山内 啓之, 小口 高, 早川裕弌, 瀬戸寿一 2019. [GISの標準コアカリキュラムと知識体系を踏まえた実習用オープン教材の開発と評価](https://www.jstage.jst.go.jp/article/ejgeo/14/2/14_288/_article/-char/ja/) E-journal GEO, 14 巻, 2 号, p.288-295.
+- 山内 啓之, 小口 高, 早川裕弌, 瀬戸寿一 2019. [GISの標準コアカリキュラムと知識体系を踏まえた実習用オープン教材の開発と評価](https://www.jstage.jst.go.jp/article/ejgeo/14/2/14_288/_article/-char/ja/) E-journal GEO, 14(2), 288-295.
+
+## MISC
+
+- 小口 高, 山内啓之 2022. [1-2-2-13 CSIS（東大空間情報科学研究センター）のGIS実習オープン教材の説明と活用法を学ぶ ](https://www.chirisougou.geography-education.jp/global-map-gis/digital-map-gis/mapping-spatial-analysis/csis/)『地理総合』学校教育支援サイト.
 
 - 山内啓之， 小口 高， 早川裕弌， 瀬戸寿一 2019. 改訂版GIS&T BoKとGIS実習用オープン教材の解説項目の比較. 地理情報システム学会 第28回学術研究発表大会講演論文集(CD-ROM)
 
@@ -155,6 +163,17 @@
 - [Geoアクティビティコンテスト2019（国土地理院）地理教育賞](https://g-expo.jp/2019/geocon/award.html/)  2019/11/30
 
 ## 講習会・ワークショップ・展示・記事等
+
+- 第2回_初心者向けQGISオンライン講習会〜GIS入門と地形の分析〜 2022年7月14日
+- 地理総合ステップアップ！地理情報システム（GIS）・ドローンを使って地域を分析してみよう 2022年7月9日
+- JpGUスーパーレッスン：ドローンで取得した標高データの解析の入門～GISの初心者向け講習会～  2022年6月2日
+- JpGUスーパーレッスン:初心者向けQGISオンライン講習会〜GIS入門と地形の分析〜 2022年5月30日
+- ひらめき☆ときめきサイエンス デジタル地図とスマホ、ドローン、3Dプリンタで自然環境と人 間生活を調べよう！ 2022年3月13日
+- 公文国際学園高等部 地理A「多様な角度から地形を見てみよう」/「デジタル地図を使って防災をまなんでみよう」 2022年2月24日
+- 初心者向けQGISオンライン講習会〜GIS入門と地形の分析〜 2021年11月25日
+- 田谷の洞窟のVR体験(egao フェスティバル vol.9) 2021年11月13日
+- ひらめき☆ときめきサイエンス デジタル地図とスマホ、ドローン、3Dプリンタで自然環境と人 間生活を調べよう！ 2021年3月14日
+- GeoNight 防災×デジタル地図ワークショップ 日本学術会議地球惑星科学委員会IGU分科会、日本地理学会地理学のアウトリーチ研究グループ、 国際地理学連合（IGU）ハザードとリスク委員会、東京大学空間情報科学研究センター 2020年12月19日
 
 - [Geo展 2020](https://www.geoten.org/) :出展　2020/11/27　online
 
