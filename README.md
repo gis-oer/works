@@ -28,6 +28,15 @@
 
 ## 学会等での口頭、ポスター発表
 
+### 2022
+
+- Applications of GIS, Internet technology, close-range remote sensing, and virtual reality to develop geomorphological education. Takashi Oguchi, Hiroyuki Yamauchi, Jiali Song, Takuro Ogura, Yuichi S. Hayakawa, Ken'ichi Tsuruoka, Kotaro Iizuka 10th IAG International Conference on Geomorphology
+
+- 「リモート環境を活用した高大連携授業の実践―地理総合を想定した地形・GIS学習の事例―」　小倉拓郎, 中村洋介, 山内啓之, 宋 佳麗, 田村裕彦, 小口 高 2022年度日本地理教育学会第72回大会
+
+- Developing geographical education for effective utilization of hazard maps. Takashi Oguchi, Hiroyuki Yamauchi, Song Jiali, Takuro Ogura
+UGI-IGU PARIS 2022
+
 ### 2021
 
 - 「地球科学分野における高等教育の充実のためのVR空間の試作」 飯塚浩太郎, 山内, 啓之, 鶴岡, 謙一, 小倉, 拓郎, 三好, 由起, 小口 高 バーチャル学会 2021
@@ -164,11 +173,13 @@
 
 ## 講習会・ワークショップ・展示・記事等
 
+- ひらめき☆ときめきサイエンス デジタル地図とスマホ、ドローン、3Dプリンタで自然環境と人間生活を調べよう！ 2022年8月28日
+- 地理総合ステップアップ！地理情報システム（GIS）・ドローンを使って地域を分析してみよう(第二回) 2022年8月8日
 - 第2回_初心者向けQGISオンライン講習会〜GIS入門と地形の分析〜 2022年7月14日
 - 地理総合ステップアップ！地理情報システム（GIS）・ドローンを使って地域を分析してみよう 2022年7月9日
 - JpGUスーパーレッスン：ドローンで取得した標高データの解析の入門～GISの初心者向け講習会～  2022年6月2日
 - JpGUスーパーレッスン:初心者向けQGISオンライン講習会〜GIS入門と地形の分析〜 2022年5月30日
-- ひらめき☆ときめきサイエンス デジタル地図とスマホ、ドローン、3Dプリンタで自然環境と人 間生活を調べよう！ 2022年3月13日
+- ひらめき☆ときめきサイエンス デジタル地図とスマホ、ドローン、3Dプリンタで自然環境と人間生活を調べよう！ 2022年3月13日
 - 公文国際学園高等部 地理A「多様な角度から地形を見てみよう」/「デジタル地図を使って防災をまなんでみよう」 2022年2月24日
 - 初心者向けQGISオンライン講習会〜GIS入門と地形の分析〜 2021年11月25日
 - 田谷の洞窟のVR体験(egao フェスティバル vol.9) 2021年11月13日
