@@ -1,6 +1,6 @@
 # 主要な業績一覧
 
-本プロジェクトの主要な業績を公開しています。© GIS Open Educational Resources WG, CC BY-SA-NC 4.0
+本プロジェクトの主要な業績を公開しています。
 
 ## 論文
 
