@@ -4,6 +4,12 @@
 
 ## 論文
 
+- Hiroyuki Yamauchi, Takashi Oguchi, Kotaro Iizuka, Yuichi S. Hayakawa, Toshikazu Seto 2024.[Evaluation of GIScience Exercise Using Online Educational Materials for Japanese University Students ](https://www.tandfonline.com/doi/full/10.1080/00330124.2024.2341062?src=). The Professional Geographer, 76(4) 490-503.
+ 
+- Jiali Song, Hiroyuki Yamauchi, Takashi Oguchi, Takuro Ogura, Yosuke Nakamura, Jipeng Wang 2023. [Effects of web geographic information system (GIS) technology and curriculum approaches on education for disaster risk reduction](https://egusphere.copernicus.org/preprints/2023/egusphere-2023-1036/). Natural Hazards and Earth System Sciences, 23(11) 3617-3634. 
+
+- 山内啓之, 小倉拓郎, 中村洋介, 宋 佳麗, 小口 高 2023. [地形教育のための空撮全天球画像を用いた教材の開発と評価](https://www.jstage.jst.go.jp/article/newgeo/71/2/71_1/_article/-char/ja/) 新地理, 71(2) 1-11.
+
 - 山内 啓之, 鶴岡 謙一, 小倉 拓郎, 田村 裕彦, 早川 裕弌, 飯塚 浩太郎, 小口 高 2022. [三次元地理空間情報とVR技術を用いた遺構の散策アプリの試作と評価 －地理教育への応用に向けて－ ](https://www.jstage.jst.go.jp/article/ejgeo/17/1/17_169/_article/-char/ja/).E-journal GEO, 17(1), 169-179.
 
 - Jiali Song, Hiroyuki Yamauchi, Takashi Oguchi, Takuro Ogura 2022. [Application of web hazard maps to high school education for disaster risk reduction](https://www.sciencedirect.com/science/article/abs/pii/S2212420922000851), International Journal of Disaster Risk Reduction, 72, 102866-102866. 
